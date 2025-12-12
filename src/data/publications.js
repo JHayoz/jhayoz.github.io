@@ -13,7 +13,7 @@ export const publications = [
     link: "https://www.aanda.org/articles/aa/full_html/2025/06/aa53297-24/aa53297-24.html",
   },
   {
-    title: "High-contrast spectroscopy with the new VLT/ERIS instrument: Molecular maps and radial velocity of the gas giant AF Lep b",
+    title: "CROCODILE: Incorporating medium-resolution spectroscopy of close-in directly imaged exoplanets into atmospheric retrievals via cross-correlation",
     authors: "Hayoz, J., G. Cugno, S. P. Quanz, P. Patapis, E. Alei, M. J. Bonse, F. A. Dannert, E. O. Garvin, T. D. Gebhard, B. S. Konrad and L. F. Sartori",
     reference: "A&A, 678, A178: A178",
     link: "https://www.aanda.org/articles/aa/full_html/2023/10/aa45752-22/aa45752-22.html",
