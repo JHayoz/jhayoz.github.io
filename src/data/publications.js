@@ -8,7 +8,7 @@ export const publications = [
   },
   {
     title: "High-contrast spectroscopy with the new VLT/ERIS instrument: Molecular maps and radial velocity of the gas giant AF Lep b",
-    authors: "Hayoz, J., M. J. Bonse, F. Dannert, E. O. Garvin, G. Cugno, P. Patapis, T. D. Gebhard,W. O. Balmer, R. J. De Rosa, A. Agudo Berbel, Y. Cao, G. Orban de Xivry, T. Stolker, R. Davies et al.",
+    authors: "Hayoz, J., M. J. Bonse, F. Dannert, E. O. Garvin, G. Cugno, P. Patapis, T. D. Gebhard, W. O. Balmer, R. J. De Rosa, A. Agudo Berbel, Y. Cao, G. Orban de Xivry, T. Stolker, R. Davies et al.",
     reference: "A&A, 698, A87: A87",
     link: "https://www.aanda.org/articles/aa/full_html/2025/06/aa53297-24/aa53297-24.html",
   },
